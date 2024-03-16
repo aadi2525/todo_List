@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+<<<<<<< HEAD
+		"axios": "^1.6.7"
+=======
+		"axios": "^1.6.7",
+		"eslint-restricted-globals": "^0.2.0"
+>>>>>>> 4b3c194 ('Completed')
+	}
+}

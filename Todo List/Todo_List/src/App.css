@@ -1,0 +1,93 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+}
+
+
+<<<<<<< HEAD
+.home{
+=======
+/* .home{
+>>>>>>> 4b3c194 ('Completed')
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+<<<<<<< HEAD
+}
+=======
+} */
+>>>>>>> 4b3c194 ('Completed')
+
+.create_form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.create_form input{
+  width: 300px;
+  padding: 10px;
+  border-bottom: 2px solid;
+  outline: none;
+}
+
+.create_form button{
+  padding: 10px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+<<<<<<< HEAD
+}
+=======
+}
+
+.task{
+  background-color: black;
+  font-weight: bold;
+  display: flex;
+  color: white;
+  width: 23vw;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.task p{
+  width: 15vw;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.checkBox{
+  width: 20vw;
+  display: flex;
+}
+
+
+.icon{
+  display: flex;
+  justify-content: left;
+  
+}
+.delete{
+  display: flex;
+  justify-content: right;
+}
+
+.line_through {
+  text-decoration: line-through 4px;
+
+}
+
+>>>>>>> 4b3c194 ('Completed')
